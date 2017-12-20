@@ -1,0 +1,2 @@
+# WyznaczDzielnik
+Wyznaczanie Dzielników
